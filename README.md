@@ -34,4 +34,21 @@
 1. Click on **Settings > Upload User List CSV** in your WordPress dashboard.
 2. You'll see a file upload form.
 3. Prepare your CSV file with the following **column headers**:
+4. Upload the CSV file and click **Upload CSV**.
+
+> ✅ If a user already exists (based on username or email), they will be skipped.  
+> 🆕 New users will be created automatically.
+
+---
+
+## 🧑‍💻 Author
+
+Created with ❤️ by [Rajesh Paul](https://github.com/Rajeshpaul1994)  
+Feel free to contribute, report issues, or give feedback on GitHub!
+
+---
+
+## 📄 License
+
+This plugin is open-source and freely available under the [MIT License](LICENSE).
 
