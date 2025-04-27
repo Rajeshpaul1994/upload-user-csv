@@ -27,6 +27,12 @@
 3. After activation, you'll see a new menu option:  
    **Settings > Upload User List CSV**
 
+   ## 📸 Screenshot
+
+Here's what the upload form looks like:
+
+![Upload Form Screenshot](screenshot.png)
+
 ---
 
 ## 📁 How to Use
@@ -43,7 +49,7 @@
 
 Here's what the upload form looks like:
 
-![Upload Form Screenshot](screenshot.png)
+![Upload Form Screenshot](screenshot2.png)
 ---
 
 ## 🧑‍💻 Author
