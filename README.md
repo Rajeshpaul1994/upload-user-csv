@@ -29,7 +29,7 @@
 
    ## 📸 Screenshot
 
-Here's what the upload form looks like:
+   Here's what the upload form looks like:
 
 ![Upload Form Screenshot](screenshot.png)
 
