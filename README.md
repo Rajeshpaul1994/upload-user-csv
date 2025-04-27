@@ -47,7 +47,7 @@ Here's what the upload form looks like:
 
 ## 📸 Screenshot
 
-Here's what the upload form looks like:
+After submit looks like:
 
 ![Upload Form Screenshot](screenshot2.png)
 ---
