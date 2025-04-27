@@ -39,6 +39,11 @@
 > ✅ If a user already exists (based on username or email), they will be skipped.  
 > 🆕 New users will be created automatically.
 
+## 📸 Screenshot
+
+Here's what the upload form looks like:
+
+![Upload Form Screenshot](screenshot.png)
 ---
 
 ## 🧑‍💻 Author
